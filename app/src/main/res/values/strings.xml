@@ -1,0 +1,4 @@
+<resources>
+    <string name="app_name">WorldBankData</string>
+    <string name="search">Find countries using CCC</string>
+</resources>
